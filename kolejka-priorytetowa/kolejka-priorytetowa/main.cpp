@@ -1,3 +1,4 @@
+//Gabriela Zaremba 
 #include <iostream>
 #include <iomanip>
 #include <ctime>
@@ -179,4 +180,4 @@ int main( )
        Q.deletemax( );
    }
 }
-
+//Gabriela Zaremba
