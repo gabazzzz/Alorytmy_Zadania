@@ -53,3 +53,12 @@ xcuserdata/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.toptal.com/developers/gitignore/api/xcode,c++
+.DS_Store
+.DS_Store
+*.pbxproj
+*.xcworkspacedata
+*.plist
+kolejka-priorytetowa/.DS_Store
+*.pbxproj
+kolejka-priorytetowa/kolejka-priorytetowa.xcodeproj/project.pbxproj
+kolejka-priorytetowa/kolejka-priorytetowa.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
